@@ -1,0 +1,231 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Backend",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Backend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"backend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Frontend (prefix)",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"--prefix",
+				"frontend",
+				"start"
+			],
+			"isBackground": true,
+			"group": "build"
+		}
+	]
+}
